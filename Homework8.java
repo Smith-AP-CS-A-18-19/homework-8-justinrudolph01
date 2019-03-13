@@ -1,3 +1,5 @@
+// Justin Rudolph
+
 public class Homework8 {
 
 	/* Finish the constructor and create any necessary instance
